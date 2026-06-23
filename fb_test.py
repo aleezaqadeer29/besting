@@ -34,7 +34,7 @@ except Exception as e:
 
 # Agar accounts 0 hon to program agay na chalay
 if len(test_data) == 0:
-    print("⚠️ Warning: File mein koi data nahi mila. Check karein ke pehli line 'email,password' hi hai?")
+    print("⚠️ Warning: Fileee meeein koooi daaata naaahi milaaaa. Cheeeeck kaaaarein keee peeehli lineee 'emaaaail,paaaaassword' hiiiii haaaaaaai?")
     exit()
 
 test_results = []
